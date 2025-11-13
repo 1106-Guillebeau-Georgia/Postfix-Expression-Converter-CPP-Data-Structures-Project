@@ -68,7 +68,7 @@ Result: 1
 
 ## Notes
   - Input validation is minimal; the program assumes the user enters valid integers for menu selections, single digit inputs and basic arithmetic operators.
-  - Focus of this project is on implementing the Stack ADT using array and linked list storage, as well as analyzing the time complexity difference between the two.
+  - Focus of this project is on implementing the Stack ADT using array and linked list storage, as well as analyzing the time complexity differences between the two.
 
 ---
 
