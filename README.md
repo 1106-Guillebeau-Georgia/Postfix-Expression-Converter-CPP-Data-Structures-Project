@@ -1,7 +1,7 @@
 # Postfix Expression Converter (C++ Data Structures Project)
 
 ## Overview:
-Console-based program that converts infix expressions using the four basic arithmetic operators, implemented with array and linked-list-based stacks in C++. This project demonstrates how stacks can be used to evaluate arithmetic expressions and shows the differences between static array and dynamic linked-list implementations. It reinforces understanding of the Stack ADT, operator precedence, and memory management in C++.
+Console-based program that converts infix expressions using the four basic arithmetic operators, implemented with array and linked-based stacks in C++. This project demonstrates how stacks can be used to evaluate arithmetic expressions and shows the differences between static array and dynamic linked-list implementations. It reinforces understanding of the Stack ADT, operator precedence, and memory management in C++.
 
 --- 
 
